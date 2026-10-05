@@ -1,0 +1,7 @@
+cli-anything-fxmacrodata
+Copyright 2026 FXMacroData
+
+This product includes cli_anything/fxmacrodata/utils/repl_skin.py from
+CLI-Anything (https://github.com/HKUDS/CLI-Anything), licensed under the
+Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0).
+The file is included unchanged apart from a two-line attribution header.
